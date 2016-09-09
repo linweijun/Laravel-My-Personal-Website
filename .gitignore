@@ -1,0 +1,5 @@
+/.idea
+/laravel/.gitattributes
+/laravel/.gitignore
+/laravel/.env.example
+/laravel/.env
